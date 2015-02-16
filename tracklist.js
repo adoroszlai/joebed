@@ -14,4 +14,5 @@ var tracks = [
 	"tracks/20140831.gpx",
 	"tracks/20141123.gpx",
 	"tracks/20141229.gpx",
+	"tracks/20150215.gpx",
 ];
