@@ -1,6 +1,6 @@
 function init_map() {
 	var map = L.map('map');
-	new L.OSM.CycleMap().addTo(map);
+	new L.OSM.OpenTopoMap().addTo(map);
 	L.control.scale().addTo(map);
 
 	var markers = L.featureGroup().addTo(map);
